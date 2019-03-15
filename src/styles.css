@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=GFS+Didot');
+.bg-dgray{
+    background: rgb(43, 43, 43);
+}
+.bg-ddark{
+    background: rgb(24, 24, 24);
+}
+.title{
+    font:normal normal normal 72px/1.25em 'playfair display',serif;
+    color: #E6D8D7;
+    text-transform: uppercase;
+}
+.title2{
+    font: normal normal normal 40px/1.35em 'playfair display', serif;
+}
+.subtitle{
+    font:normal normal normal 22px/1.41em 'playfair display',serif;
+    color:#E6D8D7;
+    text-transform: uppercase;
+}
+.subtitle-white{
+    font:normal normal normal 22px/1.41em 'playfair display',serif;
+    color:white;
+}
+.title3{
+    font: normal normal normal 20px/1.67em 'GFS Didot',serif;
+    font-style: italic;
+}
+.m2{
+    font:normal normal normal 15px/1.875em raleway,sans-serif;
+}
